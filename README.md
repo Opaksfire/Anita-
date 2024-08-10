@@ -52,6 +52,14 @@
 ## Watch Tutorial videos.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/PFYaqnuFKi8?si=clmY9NehWGACP1AM)
 
+### DEPLOY ON KOYEB
+
+1. If you don't have an account in KOYEB, create one and deploy.
+    <br>
+    <a href='https://koyeb.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+## Watch Tutorial videos.
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/j4f5oNsbkTA?si=019D3aaX05yBnI-5)
+
 
 ### DEPLOY ON CLEVER CLOUD
 
