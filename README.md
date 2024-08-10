@@ -1,4 +1,4 @@
- # QUEEN_ANITA-V2
+# QUEEN_ANITA-V2
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
@@ -49,7 +49,7 @@
 1. If you don't have an account in RENDER, create one and deploy.
     <br>
     <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
-## Watch Tutorial videos.
+## Watch Render Tutorial Video.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/PFYaqnuFKi8?si=clmY9NehWGACP1AM)
 
 ### DEPLOY ON KOYEB
@@ -57,7 +57,7 @@
 1. If you don't have an account in KOYEB, create one and deploy.
     <br>
     <a href='https://koyeb.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-## Watch Tutorial videos.
+## Watch Koyeb Tutorial videos.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/j4f5oNsbkTA?si=019D3aaX05yBnI-5)
 
 
